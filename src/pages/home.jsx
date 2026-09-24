@@ -52,7 +52,7 @@ export default function Home({ recipes, loading, onDelete }) {
               <Button
                 size="lg"
                 variant="outline"
-                className="border-white/30 text-white hover:bg-white/10 backdrop-blur-sm"
+                className="border-white/30 text-black hover:bg-white/30 backdrop-blur-sm"
               >
                 Add a Recipe
               </Button>
